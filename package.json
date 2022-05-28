@@ -43,5 +43,6 @@
   },
   "devDependencies": {
     "maplibre-gl": "^2.1.9"
-  }
+  },
+  "homepage": "https://geolonia.github.io/coord-picker"
 }
